@@ -1,0 +1,6 @@
+/node_modules
+.env
+code.js
+mails_sends.js
+my_snippet
+message_sends.js
